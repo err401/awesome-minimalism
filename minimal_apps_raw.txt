@@ -1,0 +1,15 @@
+
+# web-dev
+
+chotacss
+picoCss
+purecss
+water.css
+
+jetBrains Mono
+mem Font
+openSans
+segoe-ui
+
+simple icons
+teenyicons
