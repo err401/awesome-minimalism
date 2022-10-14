@@ -1,0 +1,6 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = ''
+theme= "PaperMod"
+[markup.goldmark.renderer]
+    unsafe = true
