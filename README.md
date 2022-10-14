@@ -2,8 +2,9 @@
 
 A curated list of minimal apps & resources.
 
-Inspired by [neiesc/awesome-minimalist](https://github.com/neiesc/awesome-minimalist#awesome-minimalist-frameworks-)
-
+Inspired by [neiesc/awesome-minimalist](https://github.com/neiesc/awesome-minimalist#awesome-minimalist-frameworks-)<br>
+Website format avaiable @ [is.gd/awesome_minimalism](https://is.gd/awesome_minimalism)
+<br><br>
 - [Awesome Minimalism](#awesome-minimalism-)
 
   - [Dev](#dev)
