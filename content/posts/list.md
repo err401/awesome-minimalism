@@ -1,5 +1,4 @@
 ---
-title: "Awesome Minimalism"
 draft: false
 ---
 
