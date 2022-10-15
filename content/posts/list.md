@@ -3,7 +3,7 @@ title: "Awesome Minimalism"
 draft: false
 ---
 
-# Awesome Minimalism [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Awesome Minimalism <img style="display: inline-block;" src="https://awesome.re/badge-flat.svg">
 
 A curated list of minimal apps & resources.
 
